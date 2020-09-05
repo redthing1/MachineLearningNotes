@@ -1,0 +1,2 @@
+# ignore Keras models
+*.h5
